@@ -15,7 +15,7 @@ npm run dev
 npm run build
 ```
 #### ScreenShot
-![screenshot](https://github.com/olive009/auto_swagger/blob/master/screenshot.gif)
+![screenshot](./screenshot.gif?raw=true)
 
 #### NPM Packages
 
